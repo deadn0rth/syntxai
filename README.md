@@ -1,6 +1,7 @@
 # API Test Automation Framework
 
 Тестовое задание для автоматизации API, проект соответствует требованиям технического задания
+
 Тестируемая среда: [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 ## Структура проекта
