@@ -76,6 +76,7 @@ pytest -m smoke
 pytest -m negative
 
 **Запуск тестов с генерацией HTML-отчета** (отчет будет сохранен в report.html`):
+
 pytest -m full --html=report.html --self-contained-html
 
 ## Комментарии
