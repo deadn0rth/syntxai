@@ -1,2 +1,0 @@
-# syntxai
-API Autom
